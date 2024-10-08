@@ -176,3 +176,5 @@ function loop() {
 }
 
 loop();
+
+//GitHubの学習のための更新です。
