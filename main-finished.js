@@ -169,6 +169,7 @@ function loop() {
     ball.draw();
     ball.update();
     ball.collisionDetect();
+    EvilCircle.ollisionDetect();
   }
 
   requestAnimationFrame(loop);
